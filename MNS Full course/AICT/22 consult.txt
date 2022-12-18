@@ -1,0 +1,40 @@
+General Questions: Definitions, Trends 
+1. Name four important trends in CMOS technology! (4 points) 
+
+2. Please explain the term “equivalent scaling”! (4 points) 
+
+3. Please name three equivalent scaling measures applied in advanced IC CMOS technology! (3 points) 
+
+4. Define the terms “front end of line”, “back end of line” and “front end”, “back end” in CMOS technology! (4 points) 
+
+5. Define the term “3D Integration”! (3 points)
+process Questions:
+6. Name the four “gas phase deposition processes” used in advanced CMOS IC technology. For each of these processes give 
+- one example for a material/thin film deposited in front end technology in production 
+- one example for a process module, where this material/thin film is applied in production!, (Remark: using a table is recommended) (12 points) 
+
+7. Please name the requirements for conductive diffusion barriers in Copper interconnects! 
+Which of the gas phase processes mentioned in question (6) can be used for conductive diffusion barrier deposition? (7 points)
+
+8.- Please define the term “step coverage” by a schematic and the respective equation for calculation! (4 points) 
+- Please name two deposition processes, which provide the potential of 100% step coverage! (2 points) 
+- Please name three approaches for advanced sputtering techniques to improve the step coverage of the sputtering process! (3 points) 
+
+9.- What is “Chemical Mechanical Planarization” (CMP)? (4 points) 
+- Provide three examples for application of CMP in IC technology! (3 points) 
+- Please name the different consumables used in the CMP process! (3 points) 
+- Draw a schematic cross-section of the CMP chamber/module configuration of the CMP equipment/tool and mark/name the different parts! (8 points)
+
+10. What is the motivation to use low-k dielectrics as insulators in on-chip interconnects systems instead of SiO: for high performance CMOS technology? (4 points) 
+- Describe the fabrication process for porous CDO/SiCOH films used in production (type of process, precursors, type of post-teatment)! (6 points)
+- Which low-k dielectrics have been applied in CMOS production technologies so far and what is their k-value? (6 points) 
+
+11.- Which kind of lithography is used in 32/28 nm technology nodes (name and wavelength)? (2 points) 
+- Name three Resolution Enhancement Techniques (RET) tow allow sub wavelength pattern realization! (3 points) 
+- Which kind of lithography has been recently introduced to produce 14/10 nm CMOS technology nodes (name and wavelength)? (2 points)
+
+12.- What are the objectives of post-annealing after ion implantation? (2 points) 
+- Name the methods/processes of annealing applied in different technology nodes and sort them by the extent of broadening of dopant profiles due to diffusion starting with the lowest dopant broadening! (5 points)
+
+
+1+2+3+4+5+6+7+8+9+10+11+
